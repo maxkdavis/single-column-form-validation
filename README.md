@@ -1,6 +1,6 @@
-# Frontend Mentor - Ping coming soon page
+# Frontend Mentor Ping! Form Validation Challenge
 
-![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
+./design/mobile1.png
 
 ## Welcome! 👋
 
