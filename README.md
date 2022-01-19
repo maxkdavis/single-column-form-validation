@@ -2,6 +2,19 @@
 
 Live Site URL: https://maxkdavis-single-column-form-validation.netlify.app
 
+## Overview
+
+Create a responsive form that can be also be checked for invalid inputs
+
+
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
+-   Javascript & DOM Selection and Event Listeners
+
 
 ## Welcome! 👋
 
