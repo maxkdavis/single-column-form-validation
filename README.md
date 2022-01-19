@@ -1,6 +1,7 @@
 # Frontend Mentor Ping! Form Validation Challenge
 
-./design/mobile1.png
+Live Site URL: maxkdavis-single-column-form-validation.netlify.app 
+
 
 ## Welcome! 👋
 
