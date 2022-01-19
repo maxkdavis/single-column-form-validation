@@ -1,6 +1,6 @@
 # Frontend Mentor Ping! Form Validation Challenge
 
-Live Site URL: maxkdavis-single-column-form-validation.netlify.app 
+Live Site URL: https://maxkdavis-single-column-form-validation.netlify.app
 
 
 ## Welcome! 👋
